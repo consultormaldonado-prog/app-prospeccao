@@ -1,2 +1,4 @@
-tesseract
-tesseract-lang-por
+tesseract-ocr
+tesseract-ocr-por
+libgl1-mesa-glx
+libglib2.0-0
